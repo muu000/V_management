@@ -25,12 +25,19 @@ namespace VCheck
             InitializeComponent();
         }
 
+        string judgeComment;
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             //ボタンの色の変更　
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void comboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }
